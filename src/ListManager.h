@@ -1,5 +1,6 @@
 #ifndef LISTMANAGER_H
 #define LISTMANAGER_H
+#include <Geode/Geode.hpp>
 #include <vector>
 #include <string>
 

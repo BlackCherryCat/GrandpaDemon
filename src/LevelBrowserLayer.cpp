@@ -1,6 +1,8 @@
-#include <Geode/Bindings.hpp>
+#include <Geode/Geode.hpp>
 #include <Geode/modify/LevelBrowserLayer.hpp>
 #include "ListManager.h"
+
+using namespace geode::prelude;
 
 class $modify(GrDLevelBrowserLayer, LevelBrowserLayer) {
 

@@ -1,6 +1,7 @@
 #ifndef EFFECTSMANAGER_H
 #define EFFECTSMANAGER_H
 
+#include <Geode/Geode.hpp>
 using namespace geode::prelude;
 
 class EffectsManager {
