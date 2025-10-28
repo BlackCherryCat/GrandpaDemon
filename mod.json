@@ -1,5 +1,5 @@
 {
-	"geode": "4.6.2",
+	"geode": "4.9.0",
 	"version": "v1.2.1",
 	"gd": {
 		"win": "2.2074",
@@ -46,3 +46,4 @@
 	"tags": ["online", "enhancement", "interface"],
 	"repository": "https://github.com/ItzKiba/GrandpaDemon"
 }
+
