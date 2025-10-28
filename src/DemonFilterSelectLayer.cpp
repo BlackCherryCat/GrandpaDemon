@@ -18,7 +18,7 @@ class $modify(GrdDemonFilterSelectLayer, DemonFilterSelectLayer) {
     
 
     static void onModify(auto &self) {
-        self.setHookPriority("DemonFilterSelectLayer::init", -1);
+        (void) self.setHookPriority("DemonFilterSelectLayer::init", -1);
     }
 
     bool init() {

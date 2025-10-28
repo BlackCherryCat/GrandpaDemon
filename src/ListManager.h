@@ -3,6 +3,7 @@
 #include <Geode/Geode.hpp>
 #include <vector>
 #include <string>
+#include <sstream>
 
 using namespace geode::prelude;
 
@@ -93,6 +94,7 @@ class ListManager {
                     }
                 }
             } 
+            return nullptr;
         }
 
         inline static GJSearchObject* getSearchObject(int upper, int lower) {
